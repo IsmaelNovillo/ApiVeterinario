@@ -8,7 +8,7 @@
 
 ## Authors
 
-- [@Ruizerick26](https://www.github.com/Ruizerick26)
+- [@IsmaelNovillo](https://www.github.com/IsmaelNovillo)
 
 
 ## SPRINT 0
